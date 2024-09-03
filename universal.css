@@ -1,0 +1,63 @@
+@font-face {
+    font-family: RobotoMono;
+    src:url(FontsFolder/RobotoMono.ttf);
+}
+
+h1, p, button{
+    font-family: RobotoMono;
+}
+
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+    padding-top: 25px;
+    position: relative;
+}
+nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: RobotoMono;
+    font-size: 12.5px;
+}
+
+
+div {
+    overflow-x: hidden;
+    letter-spacing: 0.035cm;
+}
+div section {
+    display: block;
+    text-align: center;
+}
+div ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;   
+}
+div li {
+    display: inline-block;
+    margin: 0 10px;
+    padding-top: 25px;
+    position: relative;
+}
+div a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: RobotoMono;
+    font-size: 22.5px;
+}
+div p {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: RobotoMono;
+    font-size: 15px;
+}
