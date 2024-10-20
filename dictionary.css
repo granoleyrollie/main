@@ -29,7 +29,7 @@ div li {
 div a {
     color: rgb(0, 0, 0);
     text-decoration: none;
-    text-transform: uppercase;
+    text-transform: none;
     font-family: RobotoMono;
     font-size: 15px;
 }
