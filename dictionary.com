@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="arthur" content="isaac rinair">
+    <meta name="description" content="entry">
+    <meta name="keywords" content="homepage">
+
+    <title>dictionary</title>
+    <link rel="icon" type="image/png" href="ImagesFolder/BlackImage.png">
+    <link rel="stylesheet" href="universal.css">
+    <link rel="canonical" href="https://isaacrinair.com/dictionary">
+    
+    <style>
+      div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      body {
+        overflow-y: hidden;
+        overflow-x: hidden;
+      }
+      </style>
+    </head>
+    <body>
+      <div>
+        "hello"
+      </div>
+  </body>
+</html>>
